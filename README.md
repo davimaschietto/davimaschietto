@@ -13,7 +13,7 @@
 <p>
 <div align="center">
   <a href="https://github.com/davimaschietto/davimaschietto/edit/main/README.md">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&height=55&size=25&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=480&lines=Desenvolvedor+Frontend;Desenvolvedor+Web;DevSecOps" alt="desenvolvedor_Davi_Maschietto">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&height=55&size=25&pause=1000&color=FF0000&background=FFFFFF00&center=true&vCenter=true&width=480&lines=Desenvolvedor+FrontEnd;Desenvolvedor+Web;DevSecOps" alt="desenvolvedor_Davi_Maschietto">
   </a>
 
 </div>
