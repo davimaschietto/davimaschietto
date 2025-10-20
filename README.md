@@ -5,7 +5,7 @@
 # <div align="center"><a href="https://github.com/davimaschietto" style="color: white;">&lt;Davi Maschietto&gt;</a></div>
 
 <p align= center style="color: white;"> 
- <strong>DEV</strong>
+ <strong>&ltDEV&gt</strong>
 </p>
 
 <!-- texto interativo-->
