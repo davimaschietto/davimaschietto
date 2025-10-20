@@ -2,7 +2,7 @@
 
 <!--apresentacao principal-->
 
-# <div align="center"><a href="https://github.com/davimaschietto" style="color: white;">&lt;Davi Maschietto&gt;</a></div>
+# <div align="center"><a href="https://github.com/davimaschietto" style="color: white;">;Davi Maschietto;</a></div>
 
 <p align= center style="color: white;"> 
  <strong>&ltDEV&gt</strong>
