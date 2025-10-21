@@ -1,15 +1,12 @@
 
-
 <!--apresentacao principal-->
+# <div align="center"><a href="https://github.com/davimaschietto" style="color: #ffff;">Davi Maschietto</a></div>
 
-# <div align="center"><a href="https://github.com/davimaschietto" style="color: blue;">Davi Maschietto</a></div>
-
-<p align= center style="color: white;"> 
+<p align= center style="color: #ffff;"> 
  <strong>&ltDEV&gt</strong>
 </p>
 
 <!-- texto interativo-->
-
 <p>
 <div align="center">
   <a href="https://github.com/davimaschietto/davimaschietto/edit/main/README.md">
@@ -18,9 +15,8 @@
 
 </div>
 
-<div>
+<div align="center">
 <!--FERRAMENTAS-->
-
   <p>
     <h2>🤖 Frameworks and Libraries</h2>
       <a><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
