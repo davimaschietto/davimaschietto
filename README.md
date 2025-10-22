@@ -1,6 +1,6 @@
 
 <!--apresentacao principal-->
-# <div align="center"><a href="https://github.com/davimaschietto" style="color: #ffff;">Davi Maschietto</a></div>
+# <div align="center"><p style="color: #ffff;">Davi Maschietto</p></div>
 
 <p align= center style="color: #ffff;"> 
  <strong>&ltDEV&gt</strong>
