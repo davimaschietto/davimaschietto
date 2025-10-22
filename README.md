@@ -3,7 +3,7 @@
 **`DESENVOLVEDOR`**
 ## ♟️Sobre mim:
 
-### Desenvolvedor Full Stack em ascensão, com o objetivo de me tornar um profissional de excelência e participar ativamente de grandes projetos que utilizam a tecnologia para impactar e mudar a vida das pessoas. Atuo com foco no ciclo completo de desenvolvimento, desde a interface do usuário até a lógica e estrutura de back-end e dados. Comprometido com a aprendizagem contínua das mais recentes tecnologias e em constante evolução para me tornar um profissional completo e de alta performance.
+### Desenvolvedor Full Stack em ascensão, com o objetivo de me tornar um profissional de excelência e participar ativamente em grandes projetos que utilizam a tecnologia para impactar e mudar a vida das pessoas. Atuo com foco no ciclo completo de desenvolvimento, desde a interface do usuário até a lógica e estrutura de back-end e dados. Comprometido com a aprendizagem contínua das mais recentes tecnologias e em constante evolução para me tornar um profissional completo e de alta performance.
 
 <br>
 <p align= center style="color: #ffff;"> 
