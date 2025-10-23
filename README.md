@@ -30,13 +30,14 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### **⚙️ DevOps & Deployment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-00C4CC?style=for-the-badge&logo=shield-check&logoColor=white)
+![Security](https://img.shields.io/badge/Security_Info-00C4CC?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### **📊 Produtividade**
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-008080?style=for-the-badge&logo=kanban&logoColor=white)
+![Gather Town](https://img.shields.io/badge/Gather_Town-FF6B6B?style=for-the-badge&logo=gather&logoColor=white)
 
 <!--## 📌 Featured Projects
 
