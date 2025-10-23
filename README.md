@@ -1,14 +1,6 @@
 <!--APRESENTAÇAO-->
 # <div><p style="color: #ffff;">🧑‍💻 Davi Maschietto</p></div>
 **`DESENVOLVEDOR`**
-## ♟️Sobre mim:
-
-### Desenvolvedor Full Stack em ascensão, com o objetivo de me tornar um profissional de excelência e participar ativamente em grandes projetos que utilizam a tecnologia para impactar e mudar a vida das pessoas. Atuo com foco no ciclo completo de desenvolvimento, desde a interface do usuário até a lógica e estrutura de back-end e dados. Comprometido com a aprendizagem contínua das mais recentes tecnologias e em constante evolução para me tornar um profissional completo e de alta performance.
-
-<br>
-<p align= center style="color: #ffff;"> 
- <strong>&ltDEV&gt</strong>
-</p>
 <!--texto interativo-->
 <p>
 <div align="center">
@@ -17,6 +9,52 @@
   </a>
 
 </div>
+
+### ♟️Sobre:
+
+#### Desenvolvedor Front End com sólida base em DevOps e Back End. Especializado em HTML, CSS, JavaScript, Markdrow com experiência prática em criar interfaces responsivas e otimizadas. Certificado em DevOps, aplicando práticas de segurança e CI/CD em meus projetos. Em transição para Full Stack, com foco em expandir expertise em  Python, TypeScript, SQL.
+
+### 🚀 Habilidades
+**`Front End:`** JavaScript, React, HTML5, CSS3, Markdown <br><br>
+**`DevOps:`** Git, CI/CD, Segurança da Informação <br><br>
+**`Back End:`** Python, TypeScript, SQL. (EM ESTUDO) <br>
+<br>
+### 🛠️ Ferramentas de Desenvolvimento
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### **🎨 Design & Prototipagem**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### **⚙️ DevOps & Deployment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-00C4CC?style=for-the-badge&logo=shield-check&logoColor=white)
+
+### **📊 Produtividade**
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+
+<!--## 📌 Featured Projects
+
+### [**Project 1**](link)
+Descrição breve do projeto e tecnologias utilizadas.
+
+### [**Project 2**](link)
+Descrição breve do projeto e tecnologias utilizadas.
+-->
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-maschietto/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davimaschietto123@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571981969571?text=Olá!+Visitei+seu+GitHub+e+gostaria+de+conversar+sobre+oportunidades.)
+
+<p align= center style="color: #ffff;"> 
+ <strong>&ltDEV&gt</strong>
+</p>
 
 <div align="center">
 <!--FERRAMENTAS-->
